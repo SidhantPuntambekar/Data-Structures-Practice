@@ -23,4 +23,7 @@ int main()
 
     cout << "The stack is: " << endl;
     printStack(sports);
+
+    cout << "\nsports.size() : " << sports.size(); 
+    cout << "\nsports.top() : " << sports.top();
 }
