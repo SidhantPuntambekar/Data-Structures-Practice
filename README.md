@@ -1,2 +1,2 @@
 # Data-Structures-Practice
-A repository to hold preparatory self study work for CSCI 2270
+A repository to hold preparatory self study work for CSCI 2270.
